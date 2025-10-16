@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("V. 3.0")
                 .font(.largeTitle)
                 .fontWeight(.bold)
+            Rectangle()
         }
         .padding()
         .foregroundStyle(.blue)
